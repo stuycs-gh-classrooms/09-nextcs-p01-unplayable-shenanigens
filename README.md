@@ -41,7 +41,7 @@ How will you be using arrays in this project?
 
 2D Array:
 - store levels
-
+I'm out of ideas ooops
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
@@ -70,4 +70,4 @@ CLASS Paddle
   - Pvector Position
   - PVector velocity -> maybe diagonal paddle idk
 - METHODS
-  - move
+  - move -> according to mouse position
