@@ -37,10 +37,10 @@ What are some features that are not essential to the program, but you would like
 How will you be using arrays in this project?
 
 1D Array:
-- YOUR ANSER HERE
+- possibly store tiles
 
 2D Array:
-- YOUR ANSWER HERE
+- store levels
 
 
 ### Controls
@@ -48,6 +48,7 @@ How will your program be controlled? List all keyboard commands and mouse intera
 
 Keyboard Commands:
 - ' '/'space' - launch ball/speed up ball
+- to be determined
 
 Mouse Control:
 - Mouse movement: position of paddle
@@ -62,10 +63,11 @@ CLASS Ball
   - PVector position -> position of the ball
   - PVector velocity -> direction and speed of the ball
 - METHODS
-  - float speed() -> 
+  - float speed() -> how fast the ball is going
 
-CLASS NAME1
+CLASS Paddle
 - Instance variables:
-  - LIST INSTANCE VARS HERE
+  - Pvector Position
+  - PVector velocity -> maybe diagonal paddle idk
 - METHODS
-  - LIST METHODS HERE
+  - move
