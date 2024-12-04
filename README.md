@@ -63,7 +63,7 @@ CLASS Ball
   - PVector position -> position of the ball
   - PVector velocity -> direction and speed of the ball
 - METHODS
-  - float speed() -> how fast the ball is going
+  - float speed() -> returns how fast the ball is going
 
 CLASS Paddle
 - Instance variables:
