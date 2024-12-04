@@ -32,6 +32,7 @@ What are some features that are not essential to the program, but you would like
 - extra game mechanics
 - score system
 - gradually increasing difficulty that is not just making the ball move faster
+- special tiles
 
 ### Array Usage
 How will you be using arrays in this project?
