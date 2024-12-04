@@ -40,8 +40,8 @@ How will you be using arrays in this project?
 - possibly store tiles
 
 2D Array:
-- store levels
-I'm out of ideas ooops
+- store levels 
+(I'm out of ideas ooops)
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
